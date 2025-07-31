@@ -1,0 +1,51 @@
+projection_function	clustering_algorithm	n_cubes	perc_overlap	unclustered_samples	num_clusters	num_edges	num_connected_components	std_dev_cluster_sizes	combined_score
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.5	0	11	10	1	195.2197321011708	1.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.25	0	10	9	1	137.81730660552034	1.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.5	0	10	9	1	195.74738823289573	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.25	0	10	9	1	137.81730660552034	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.5	0	10	9	1	195.74738823289573	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.1	0	10	13	1	121.04891573244264	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.25	0	10	14	1	167.45032099103304	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.5	0	10	14	1	212.30310878552862	1.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.25	0	10	9	1	137.81730660552034	1.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.5	0	11	11	1	176.31072308393544	1.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.25	0	10	9	1	137.81730660552034	1.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.5	0	10	9	1	195.74738823289573	1.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.1	0	10	9	1	17.801404438976157	1.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.25	0	10	9	1	22.438582842951558	1.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.5	0	10	9	1	37.907914740855894	1.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.1	0	10	9	1	17.801404438976157	1.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.25	0	10	9	1	22.438582842951558	1.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.5	0	10	9	1	37.907914740855894	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.1	0	10	9	1	17.801404438976157	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.25	0	10	9	1	22.438582842951558	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.5	0	10	9	1	37.907914740855894	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.25	0	10	10	1	83.41037105780072	1.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.5	0	10	13	1	85.58294222565615	1.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.1	0	10	9	1	17.801404438976157	1.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.25	0	10	9	1	22.438582842951558	1.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.5	0	10	9	1	37.907914740855894	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.5	0	10	16	1	120.65338785131564	0.99
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.5	0	8	10	1	223.71742081250625	0.98
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.25	0	15	14	1	104.19929622283125	0.97
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.5	0	15	14	1	140.64227276636598	0.97
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.25	0	15	14	1	104.19929622283125	0.97
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.5	0	15	14	1	140.64227276636598	0.97
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.25	0	15	14	1	104.19929622283125	0.97
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.5	0	15	14	1	140.64227276636598	0.97
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.25	0	15	14	1	104.19929622283125	0.97
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.5	0	15	14	1	140.64227276636598	0.97
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.5	0	15	14	1	22.999903381439577	0.97
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.1	0	15	14	1	12.61568688401688	0.97
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.25	0	15	14	1	16.474896728727078	0.97
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.5	0	15	14	1	22.999903381439577	0.97
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.1	0	15	14	1	12.61568688401688	0.97
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.25	0	15	14	1	16.474896728727078	0.97
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.5	0	15	14	1	22.999903381439577	0.97
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.1	0	11	9	2	31.454019964081322	0.97
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.1	0	15	14	1	12.61568688401688	0.97
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.1	0	15	14	1	12.61568688401688	0.97
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.25	0	15	14	1	16.474896728727078	0.97
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.5	0	15	14	1	22.999903381439577	0.97
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.1	0	10	8	2	120.83794933711842	0.96
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.1	0	10	8	2	120.83794933711842	0.96
