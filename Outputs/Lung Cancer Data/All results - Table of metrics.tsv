@@ -1,0 +1,961 @@
+projection_function	clustering_algorithm	n_cubes	perc_overlap	unclustered_samples	num_clusters	num_edges	num_connected_components	std_dev_cluster_sizes	combined_score
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	5	0.1	307	43	12	31	6.891965521582072	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	5	0.25	279	52	19	33	6.8817946520610525	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	5	0.5	268	67	33	34	7.082054165333166	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	5	0.75	268	123	167	34	8.067802110507479	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	10	0.1	398	41	13	28	4.024611967284547	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	10	0.25	347	51	22	29	4.755376972432609	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	10	0.5	278	74	41	33	6.103217965943055	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	10	0.75	268	136	205	34	7.591480011936164	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	15	0.1	454	38	11	27	3.1043709690649743	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	15	0.25	400	47	20	27	3.4372075372520268	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	15	0.5	310	76	45	31	4.583841153769586	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	15	0.75	268	142	225	34	6.740187162940651	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	20	0.1	525	32	11	21	2.1557970538758977	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	20	0.25	484	41	21	20	2.437316475191097	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	20	0.5	351	72	42	30	3.7080992435478315	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	20	0.75	268	144	238	34	6.026365521964378	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	30	0.1	605	21	3	18	1.401327520910682	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	30	0.25	552	31	10	21	1.6823748142458448	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	30	0.5	469	58	37	21	2.645358036991654	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	30	0.75	295	147	260	31	4.647010427099848	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	50	0.1	674	10	0	10	0.4898979485566356	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	50	0.25	656	13	2	11	0.8634593969478327	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	50	0.5	527	43	16	27	1.617575187188763	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=1.0)	50	0.75	383	130	246	26	3.0372928619074724	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	5	0.1	30	21	16	5	51.40281542003876	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	5	0.25	21	22	18	4	58.08891730829201	0.15
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	5	0.5	17	23	19	4	93.54642610719615	0.24999999999999997
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	5	0.75	13	20	36	4	174.0892299942762	0.22999999999999998
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	10	0.1	66	35	22	13	23.854080214025082	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	10	0.25	52	36	28	8	30.411821024474865	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	10	0.5	31	42	38	4	42.89025836992065	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	10	0.75	15	45	111	4	89.71287533013307	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	15	0.1	123	45	30	15	11.864793859706682	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	15	0.25	81	49	38	11	18.50087517769609	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	15	0.5	40	56	50	6	28.632785680340753	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	15	0.75	17	67	176	4	59.468534298564265	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	20	0.1	151	55	33	22	7.973178177360261	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	20	0.25	111	62	50	12	10.762077889491403	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	20	0.5	55	70	61	9	17.561065469047236	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	20	0.75	22	85	227	4	42.123913434591785	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	30	0.1	233	58	27	31	3.7370863659460474	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	30	0.25	180	68	48	20	4.379983567933026	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	30	0.5	98	91	83	11	10.93401623490831	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	30	0.75	36	112	297	6	28.08582305421461	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	50	0.1	360	56	18	38	2.528157754700656	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	50	0.25	293	69	45	24	2.8757070854549585	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	50	0.5	181	109	93	17	4.225047057867145	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=3.0)	50	0.75	63	160	419	9	14.640184425067877	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	5	0.1	21	9	5	4	89.62197702255902	0.23
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	5	0.25	17	10	7	3	102.80155640845133	0.41
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	5	0.5	13	11	8	3	145.32289496721737	0.54
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	5	0.75	10	14	24	3	232.1396153619803	0.53
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.1	34	13	9	4	45.1510286108233	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.25	33	13	10	3	54.78046557199038	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.5	19	18	15	3	80.22391503292442	0.30999999999999994
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.75	10	23	51	3	144.18101938745892	0.16999999999999996
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.1	38	18	14	4	29.366406018938306	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.25	37	18	15	3	35.6742809456288	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.5	22	22	19	3	54.85480459154749	0.14
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.75	13	29	69	3	104.00940916002207	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	20	0.1	46	22	18	4	22.119369993867814	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	20	0.25	41	23	20	3	27.00213532129011	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	20	0.5	32	25	22	3	39.90789395595814	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	20	0.75	16	36	90	3	79.73859200886078	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	30	0.1	62	28	25	3	12.942326936475228	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	30	0.25	60	28	27	1	15.425925699077817	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	30	0.5	42	33	30	3	25.68932133176517	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	30	0.75	21	44	111	3	54.31186250802774	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	50	0.1	72	44	36	8	8.0156097709407	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	50	0.25	67	45	44	1	9.586770720086415	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	50	0.5	60	46	45	1	13.852995417655631	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=5.0)	50	0.75	32	59	159	3	31.689367773379015	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	5	0.1	10	5	4	1	79.47427256666147	0.6000000000000001
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	5	0.25	10	5	4	1	89.19730937646045	0.6000000000000001
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	5	0.5	5	7	5	2	161.76324347259953	0.75
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	5	0.75	5	9	15	2	269.6711760827926	0.81
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.1	10	10	9	1	43.29480338331611	0.7
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.25	10	10	9	1	51.89884391775987	0.7
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.5	10	10	9	1	73.13439683213365	0.7
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.75	5	12	25	2	151.28945766311676	0.72
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.1	10	15	14	1	28.87367120559644	0.6699999999999999
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.25	10	15	14	1	34.90647822714606	0.6699999999999999
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.5	10	15	14	1	52.00316229700737	0.6699999999999999
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.75	5	17	40	2	106.90904195901841	0.52
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	20	0.1	10	20	18	2	22.551884621911313	0.56
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	20	0.25	10	20	19	1	27.0966326321187	0.5800000000000001
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	20	0.5	10	20	19	1	38.879814814373795	0.5800000000000001
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	20	0.75	5	21	54	2	77.68688242348429	0.33999999999999997
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	30	0.1	11	29	25	4	14.526780386402491	0.30999999999999994
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	30	0.25	11	29	27	2	17.41102743486705	0.35
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	30	0.5	10	30	29	1	26.2233144781933	0.38
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	30	0.75	10	30	84	1	50.71252310820277	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	50	0.1	24	44	37	7	8.576828287372575	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	50	0.25	21	45	44	1	10.301240486249972	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	50	0.5	11	48	47	1	15.733774159608227	0.0
+PCA(n_components=1, random_state=0)	DBSCAN(eps=10.0)	50	0.75	10	50	144	1	31.545548021868317	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.1	0	5	4	1	80.95282576908603	0.9000000000000001
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.25	0	5	4	1	91.16709932865035	0.9000000000000001
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.5	0	5	4	1	126.83911068751625	0.9000000000000001
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.75	0	5	9	1	142.45420316719336	0.95
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.1	0	10	9	1	44.398648628083265	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.25	0	10	9	1	52.98263866588753	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.5	0	10	9	1	74.87082208711215	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.75	0	10	24	1	125.62726614871471	0.9099999999999999
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.1	0	15	14	1	29.4542960458327	0.97
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.25	0	15	14	1	35.86170969463422	0.97
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.5	0	15	14	1	53.38014612194313	0.97
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.75	0	15	39	1	97.18207425011856	0.73
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.1	0	20	18	2	23.134119823325893	0.86
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.25	0	20	19	1	27.6181100005051	0.8800000000000001
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.5	0	20	19	1	39.815072522852454	0.8800000000000001
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.75	0	20	54	1	75.50668844546158	0.5299999999999999
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.1	0	30	26	4	15.203252575974949	0.62
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.25	0	30	28	2	18.298178415714865	0.66
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.5	0	30	29	1	26.85715298885321	0.6799999999999999
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.75	0	30	84	1	51.9613531600383	0.12999999999999995
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.1	1	49	38	11	9.529891158317572	0.06999999999999995
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.25	1	49	45	4	11.318824368703051	0.20999999999999996
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.5	1	49	48	1	16.397549618343817	0.2699999999999999
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.75	0	50	144	1	32.339969078525726	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.1	0	10	10	3	71.76517261178991	0.94
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.25	0	10	13	2	55.670548766830024	0.97
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.5	0	10	12	1	114.85943583354396	1.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.75	0	10	33	1	163.18532409503007	0.8200000000000001
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.1	0	20	24	3	27.563744302978865	0.77
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.25	0	20	23	3	41.386471219469776	0.78
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.5	0	20	31	1	52.32169722017817	0.76
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.75	0	20	87	1	91.38669213840711	0.19999999999999996
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.1	0	30	30	4	22.825546117356218	0.58
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.25	0	30	38	3	31.68962325781457	0.53
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.5	0	30	43	2	38.061485344987084	0.51
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.75	0	30	128	1	65.52166732378602	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.1	0	40	41	7	16.838478999007005	0.2799999999999999
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.25	0	40	46	5	21.808026045472342	0.2899999999999999
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.5	0	40	59	2	28.498421008891	0.24999999999999994
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.75	0	40	150	2	63.66741709854421	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.1	0	60	47	19	10.4933179796584	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.25	0	60	69	9	13.711825796248531	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.5	0	60	86	4	20.18976638464811	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.75	0	60	251	2	38.40784063472225	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.1	1	98	58	43	7.4949379001728165	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.25	1	98	101	18	8.628285670938652	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.5	1	98	130	6	12.50879324201627	0.0
+PCA(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.75	0	100	424	2	25.41295732495532	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.1	0	412	65	347	1.3107515262543448	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.25	0	485	145	340	1.3614587713858401	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.5	0	705	362	343	1.355314509865841	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.75	0	1254	1681	344	1.3835468285827022	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.1	0	425	67	358	1.2861444219248641	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.25	0	507	171	336	1.3103447534514627	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.5	0	738	432	308	1.321395986248044	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.75	0	1401	2208	313	1.3530607788185864	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.1	0	455	76	379	1.2199485083394455	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.25	0	542	205	337	1.2217602957782419	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.5	0	753	446	307	1.309220168200736	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.75	0	1441	2351	305	1.3410882822555699	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.1	0	489	81	408	1.137451917378933	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.25	0	557	197	360	1.2056159930404924	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.5	0	776	479	297	1.2636437873126	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.75	0	1470	2509	286	1.323059124105583	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.1	0	532	72	460	0.8745652999010746	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.25	0	609	201	408	0.9852298850232626	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.5	0	829	526	306	1.2045403726264783	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.75	0	1516	2735	260	1.2841122392294972	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.1	1	602	78	524	0.6633129775118936	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.25	1	703	233	470	0.7165830417500774	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.5	1	954	583	376	0.8937194453728309	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.75	0	1600	2963	258	1.2306603918222119	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.1	0	48	32	19	13.046391582860501	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.25	0	53	42	13	12.587946225434843	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.5	0	70	73	10	12.84927537065886	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.75	0	108	271	9	13.5531361684298	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.1	0	63	37	26	9.763414517398548	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.25	0	65	53	16	11.920803753530109	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.5	0	86	94	8	13.071463930283105	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.75	0	136	436	6	13.707931477091021	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.1	0	72	43	29	7.560545227415975	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.25	0	83	74	13	9.276670307288558	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.5	0	101	110	10	11.252665817101892	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.75	0	155	484	8	13.494177262033737	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.1	0	81	53	29	6.402826688677674	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.25	0	93	80	18	7.255379830043743	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.5	0	117	127	9	9.207163548998924	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.75	0	172	551	7	12.741756261325966	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.1	0	86	48	39	6.0017687135246724	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.25	0	102	89	19	5.9045414851571945	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.5	0	141	151	11	7.155560929141291	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.75	0	200	616	7	11.342821518475905	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.1	1	93	57	38	5.501384641607092	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.25	1	110	102	20	5.968263171916617	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.5	1	155	172	10	6.090869302962003	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.75	0	259	819	8	8.144761791852783	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.1	0	7	4	3	100.11687048196244	0.86
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.25	0	11	9	3	97.01111804733203	0.94
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.5	0	25	27	5	52.696929701833675	0.6299999999999999
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.75	0	44	92	5	57.67841078122676	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.1	0	12	9	3	50.06162868571763	0.94
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.25	0	12	9	3	60.09575692176612	0.94
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.5	0	16	15	3	90.05935542740687	0.9
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.75	0	44	149	3	61.67487986032177	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.1	0	17	14	3	32.471653861456915	0.89
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.25	0	17	14	3	39.597630211151525	0.89
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.5	0	21	20	3	61.554466783105035	0.8
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.75	0	35	101	3	93.96430064614096	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.1	0	22	18	4	24.77439527328618	0.78
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.25	0	23	20	3	30.219361837531824	0.78
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.5	0	24	21	3	44.984256505285636	0.76
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.75	0	33	93	3	87.65674141722435	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.1	0	32	26	6	15.957187594858311	0.54
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.25	0	32	28	4	19.1985666375774	0.58
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.5	0	34	31	3	29.414411645598957	0.5599999999999999
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.75	0	39	102	3	60.387941549200356	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.1	1	52	39	13	9.86933868877982	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.25	1	53	47	6	11.934465646777776	0.08999999999999991
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.5	1	53	50	3	17.453370720849367	0.1499999999999999
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.75	0	58	156	3	35.80640574022048	0.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.1	0	5	4	1	80.95282576908603	0.9000000000000001
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.25	0	5	4	1	91.16709932865035	0.9000000000000001
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.5	0	5	4	1	126.83911068751625	0.9000000000000001
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.75	0	5	9	1	142.45420316719336	0.95
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.1	0	10	9	1	44.398648628083265	1.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.25	0	10	9	1	52.98263866588753	1.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.5	0	10	9	1	74.87082208711215	1.0
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.75	0	10	24	1	125.62726614871471	0.9099999999999999
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.1	0	15	14	1	29.4542960458327	0.97
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.25	0	15	14	1	35.86170969463422	0.97
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.5	0	15	14	1	53.38014612194313	0.97
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.75	0	15	39	1	97.18207425011856	0.73
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.1	0	20	18	2	23.134119823325893	0.86
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.25	0	20	19	1	27.6181100005051	0.8800000000000001
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.5	0	20	19	1	39.815072522852454	0.8800000000000001
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.75	0	20	54	1	75.50668844546158	0.5299999999999999
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.1	0	30	26	4	15.203252575974949	0.62
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.25	0	30	28	2	18.298178415714865	0.66
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.5	0	30	29	1	26.85715298885321	0.6799999999999999
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.75	0	30	84	1	51.9613531600383	0.12999999999999995
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.1	1	49	38	11	9.529891158317572	0.06999999999999995
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.25	1	49	45	4	11.318824368703051	0.20999999999999996
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.5	1	49	48	1	16.397549618343817	0.2699999999999999
+PCA(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.75	0	50	144	1	32.339969078525726	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	5	0.1	335	45	17	29	6.053832578531463	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	5	0.25	283	67	49	33	6.023714921615616	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	5	0.5	268	131	190	34	6.631351795961672	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	5	0.75	268	443	2769	34	7.57580371983982	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	10	0.1	462	39	11	28	2.780130496088164	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	10	0.25	390	58	49	25	3.473870529625318	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	10	0.5	278	140	220	33	5.003957617399921	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	10	0.75	268	522	3828	34	6.918091363186351	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	15	0.1	602	21	10	13	1.8491893179950094	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	15	0.25	492	46	36	21	2.3463159394490476	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	15	0.5	324	137	225	30	3.224592485366282	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	15	0.75	268	557	4418	34	5.91569212869684	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	20	0.1	664	12	5	8	0.9428090415820634	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	20	0.25	603	27	18	14	1.1653431646335017	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	20	0.5	414	109	180	23	2.2711935203177727	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	20	0.75	268	558	4633	34	4.960233235166872	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	30	0.1	718	2	0	2	0.0	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	30	0.25	687	8	0	8	0.33071891388307384	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	30	0.5	548	61	86	18	1.3848335791437951	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	30	0.75	295	533	4556	31	3.40832458314431	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	50	0.1	728	0	0	0	0.0	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	50	0.25	728	0	0	0	0.0	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	50	0.5	701	8	6	4	0.5	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=1.0)	50	0.75	445	338	2691	22	1.6956689629847244	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	5	0.1	67	54	74	9	11.79676143044834	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	5	0.25	45	57	119	4	17.488121985732867	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	5	0.5	17	75	197	4	40.442055118678404	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	5	0.75	13	99	993	4	124.78680768701902	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	10	0.1	329	57	37	21	2.9346005824710764	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	10	0.25	222	86	145	16	4.0379487051977945	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	10	0.5	57	174	506	5	8.397124057059491	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	10	0.75	15	309	4612	4	39.783610766668616	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	15	0.1	546	32	15	20	1.7275343701356567	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	15	0.25	404	67	76	18	2.200771447804417	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	15	0.5	116	209	530	10	3.875645342023909	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	15	0.75	18	513	8181	4	17.152414865984092	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	20	0.1	648	15	5	11	1.0198039027185568	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	20	0.25	561	37	29	17	1.188574779853839	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	20	0.5	261	172	358	22	2.3423451035446323	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	20	0.75	44	707	10981	4	8.3194570998752	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	30	0.1	718	2	0	2	0.0	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	30	0.25	682	9	0	9	0.3142696805273545	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	30	0.5	500	79	116	20	1.4092195341967155	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	30	0.75	90	814	10919	9	3.942878089959505	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	50	0.1	728	0	0	0	0.0	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	50	0.25	728	0	0	0	0.0	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	50	0.5	700	8	6	4	0.6959705453537527	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=3.0)	50	0.75	333	478	4504	18	1.6812236663301845	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	5	0.1	38	27	48	4	24.948231723269885	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	5	0.25	27	30	72	3	33.70947773088288	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	5	0.5	13	39	99	3	70.1642573621132	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	5	0.75	10	62	556	3	178.48076057060203	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	10	0.1	108	60	77	11	6.731435376071157	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	10	0.25	65	75	191	3	9.96807347930827	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	10	0.5	40	95	313	3	20.177066600982876	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	10	0.75	11	158	2248	3	68.57550980331455	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	15	0.1	245	74	80	13	3.1423786312889317	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	15	0.25	148	101	219	6	4.414442792262708	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	15	0.5	55	163	533	2	9.40951907739943	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	15	0.75	15	264	4400	3	34.85015620992008	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	20	0.1	433	52	38	19	1.76881265962568	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	20	0.25	281	92	137	10	2.337942158174929	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	20	0.5	76	219	702	4	5.460370122591569	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	20	0.75	23	388	7041	3	20.390719766564786	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	30	0.1	654	14	3	11	0.7319250547113999	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	30	0.25	542	39	29	19	0.9857632198328762	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	30	0.5	210	214	567	8	2.4520958466995117	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	30	0.75	46	663	12401	2	9.446743890468646	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	50	0.1	728	0	0	0	0.0	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	50	0.25	712	3	0	3	0.4714045207910317	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	50	0.5	556	53	63	18	1.044403962497966	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=5.0)	50	0.75	94	965	15438	3	3.464468319865071	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	5	0.1	10	24	51	1	27.116518131123613	0.21999999999999995
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	5	0.25	10	24	66	1	36.50948792209134	0.06999999999999992
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	5	0.5	10	25	72	1	73.94322146079384	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	5	0.75	5	33	280	2	196.52384504496658	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	10	0.1	61	61	79	11	7.477674376585005	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	10	0.25	26	74	193	2	10.878714112663749	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	10	0.5	10	91	310	1	21.82120980697273	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	10	0.75	10	100	1632	1	71.53143644580332	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	15	0.1	191	79	92	10	3.3863066288394075	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	15	0.25	96	107	242	5	4.8716247545504165	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	15	0.5	13	165	549	1	10.290609268573816	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	15	0.75	10	215	3980	1	37.29600247980337	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	20	0.1	373	62	49	22	1.9057528330195168	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	20	0.25	211	108	184	9	2.4924268009361263	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	20	0.5	33	224	727	3	6.0397793131691255	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	20	0.75	10	358	6900	1	22.245956138739018	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	30	0.1	601	24	8	17	0.9492321458245431	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	30	0.25	473	54	44	20	1.1030572305063282	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	30	0.5	156	245	696	9	2.6273479216137003	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	30	0.75	10	667	12694	1	10.357604824586776	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	50	0.1	728	0	0	0	0.0	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	50	0.25	702	5	0	5	0.39999999999999997	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	50	0.5	488	83	114	21	1.1382832596560657	0.0
+PCA(n_components=2, random_state=0)	DBSCAN(eps=10.0)	50	0.75	48	1014	16651	3	3.8078603731848353	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.1	1	24	51	1	27.486739227004236	0.48999999999999994
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.25	0	25	67	1	37.50532762155265	0.3499999999999999
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.5	0	25	72	1	74.71713056588831	0.29999999999999993
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.75	0	25	252	1	146.54364537570368	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.1	7	82	95	17	7.8852285488939815	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.25	1	87	219	2	11.19485943596388	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.5	0	96	329	1	22.373680904630383	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.75	0	100	1632	1	72.24179122917703	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.1	22	153	148	37	3.6977409389523332	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.25	7	171	381	5	5.263859602345418	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.5	1	197	666	1	10.79939664848675	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.75	0	222	4090	1	38.07239397330478	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.1	59	195	140	81	2.1979848519948786	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.25	25	239	423	22	2.9078564748279634	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.5	1	325	1079	1	6.401964195630133	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.75	0	380	7283	1	22.794877656360015	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.1	157	233	106	139	1.2049313228208962	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.25	82	315	353	76	1.5041255100597815	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.5	7	539	1577	11	2.975345678396909	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.75	1	793	15065	1	10.809583858764187	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.1	382	167	36	135	0.5635109152583757	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.25	234	304	219	140	0.6649539041154191	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.5	50	755	1693	50	1.3135948143719574	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.75	1	1767	28917	2	4.20776383384966	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.1	1	48	88	10	17.45306205225891	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.25	0	50	145	4	25.34999802761334	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.5	0	50	190	4	53.192691227272945	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.75	0	50	869	1	137.7108565073938	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.1	7	164	120	72	5.3799254233656075	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.25	1	174	355	22	7.458556832421405	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.5	0	192	784	2	14.23096621124355	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.75	0	200	4204	1	52.31404304773241	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.1	22	306	166	167	2.5804104501672582	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.25	7	342	554	69	3.5878908722325367	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.5	1	394	1415	4	7.197760569876099	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.75	0	444	9772	2	25.08397146672477	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.1	59	388	158	258	1.5583813556963917	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.25	25	477	560	145	2.061492851980492	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.5	1	650	2014	19	4.242021679458285	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.75	0	760	16161	2	15.082611328071946	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.1	157	464	112	364	0.8825134989350678	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.25	82	629	443	299	1.0759440279917287	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.5	7	1078	2594	85	2.0693670381194815	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.75	1	1586	29107	4	7.3432281050598105	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.1	382	327	40	291	0.4460640653630539	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.25	234	601	282	376	0.5022147730205608	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.5	50	1510	2523	264	0.9418131307000726	0.0
+PCA(n_components=2, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.75	1	3534	47573	28	2.8832749455814546	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.1	1	467	164	339	1.2694515464168805	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.25	0	654	499	324	1.3114203880683768	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.5	0	1388	2163	323	1.3239534647357467	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.75	0	4456	28079	334	1.3568251573334529	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.1	7	483	140	358	1.1901718937766845	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.25	1	689	555	314	1.2193637949529508	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.5	0	1500	2576	285	1.2918713386229899	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.75	0	5463	42490	293	1.3267830965371457	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.1	22	537	178	384	1.0820440527885613	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.25	7	754	677	312	1.1491512459826922	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.5	1	1585	2833	263	1.235667264336936	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.75	0	5817	48611	263	1.3086409968368926	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.1	59	533	163	397	0.9790062108103506	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.25	25	767	611	355	1.0665932379264165	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.5	1	1646	2995	251	1.1813632133489287	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.75	0	6005	51919	245	1.2827500622628543	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.1	157	514	113	413	0.6689806897720308	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.25	82	751	449	412	0.7693939403968819	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.5	7	1713	3020	286	1.0506784660984347	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.75	1	6292	56931	220	1.2244242882427685	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.1	382	325	40	289	0.43070329165654975	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.25	234	595	273	379	0.47582915934709774	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.5	50	1705	2583	395	0.6894392602544525	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.75	1	6736	61817	215	1.1351980197072336	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.1	1	80	108	18	9.151195277120907	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.25	0	95	221	7	10.61147656563624	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.5	0	159	539	7	13.002973921445351	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.75	0	405	5187	6	13.636382295738528	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.1	7	122	119	35	4.561598764036949	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.25	1	157	367	13	4.998778705970058	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.5	0	274	1011	7	7.922116085853906	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.75	0	639	11313	5	13.480035042640694	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.1	22	171	157	50	3.124296028912187	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.25	7	216	463	15	3.8651807090458585	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.5	1	368	1354	8	4.844332889191694	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.75	0	841	15764	7	10.807140418525462	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.1	59	207	140	93	2.2165965338111198	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.25	25	259	437	32	2.8999763280583855	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.5	1	452	1577	8	3.914618424689316	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.75	0	1060	20333	8	7.983485256819394	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.1	157	241	107	146	1.2255353728560356	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.25	82	330	357	87	1.5084122850438664	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.5	7	591	1700	20	2.8257637006726806	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.75	1	1454	28066	7	4.953165041958309	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.1	382	171	36	139	0.5808051002542755	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.25	234	313	221	147	0.7114062608729756	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.5	50	787	1731	59	1.321432410646063	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.75	1	2054	33355	10	3.551479682967661	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.1	1	26	51	3	28.078292906520844	0.41
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.25	0	28	68	3	38.52265434726927	0.2499999999999999
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.5	0	40	123	4	62.60988340509827	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.75	0	140	1824	4	62.87676641735038	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.1	7	84	95	19	7.910022274365122	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.25	1	89	219	4	11.235258405369448	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.5	0	105	345	3	22.781832281143846	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.75	0	154	2520	3	65.20251804120615	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.1	22	155	148	39	3.7008084725741184	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.25	7	174	382	7	5.265738540615294	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.5	1	205	680	2	10.878234713493546	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.75	0	263	4413	3	39.24200702616889	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.1	59	197	140	83	2.210460282268424	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.25	25	242	423	24	2.925794924022524	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.5	1	331	1087	2	6.414519837783474	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.75	0	414	7559	3	23.184475436835818	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.1	157	234	106	140	1.2102470543846204	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.25	82	317	354	77	1.508941990270762	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.5	7	545	1585	12	2.9868009166183414	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.75	1	825	15294	3	10.889796675114937	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.1	382	168	36	136	0.5684445898244439	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.25	234	305	220	140	0.6680483755598454	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.5	50	761	1700	52	1.3195025286496371	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.75	1	1795	29105	3	4.217504363114964	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.1	1	24	51	1	27.486739227004236	0.48999999999999994
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.25	0	25	67	1	37.50532762155265	0.3499999999999999
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.5	0	25	72	1	74.71713056588831	0.29999999999999993
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.75	0	25	252	1	146.54364537570368	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.1	7	82	95	17	7.8852285488939815	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.25	1	87	219	2	11.19485943596388	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.5	0	96	329	1	22.373680904630383	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.75	0	100	1632	1	72.24179122917703	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.1	22	153	148	37	3.6977409389523332	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.25	7	171	381	5	5.263859602345418	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.5	1	197	666	1	10.79939664848675	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.75	0	222	4090	1	38.07239397330478	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.1	59	195	140	81	2.1979848519948786	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.25	25	239	423	22	2.9078564748279634	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.5	1	325	1079	1	6.401964195630133	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.75	0	380	7283	1	22.794877656360015	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.1	157	233	106	139	1.2049313228208962	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.25	82	315	353	76	1.5041255100597815	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.5	7	539	1577	11	2.975345678396909	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.75	1	793	15065	1	10.809583858764187	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.1	382	167	36	135	0.5635109152583757	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.25	234	304	219	140	0.6649539041154191	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.5	50	755	1693	50	1.3135948143719574	0.0
+PCA(n_components=2, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.75	1	1767	28917	2	4.20776383384966	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	5	0.1	268	36	2	34	8.82909576903351	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	5	0.25	268	40	6	34	8.767803316680867	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	5	0.5	268	58	24	34	8.327586206896552	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	5	0.75	268	105	121	34	8.54008024093111	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	10	0.1	268	38	4	34	7.921926862055483	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	10	0.25	268	46	12	34	8.549671391777137	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	10	0.5	268	63	29	34	8.755633826785058	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	10	0.75	268	117	152	34	8.613629247302988	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	15	0.1	268	38	4	34	7.549329922017459	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	15	0.25	268	42	8	34	8.60341254869213	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	15	0.5	268	65	31	34	8.511127418904525	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	15	0.75	268	123	169	34	8.418658948685504	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	20	0.1	268	38	4	34	7.743105234359152	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	20	0.25	268	47	13	34	7.912605480285588	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	20	0.5	268	67	33	34	8.064840815832525	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	20	0.75	268	128	183	34	8.414751596666045	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	30	0.1	268	40	6	34	6.770339725597232	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	30	0.25	268	46	12	34	7.415943586736857	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	30	0.5	268	68	34	34	8.238234769095055	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	30	0.75	268	131	191	34	8.477806370896932	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	50	0.1	269	41	6	35	6.045337336312638	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	50	0.25	268	49	15	34	6.729187606803923	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	50	0.5	268	73	39	34	7.363673114785507	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=1.0)	50	0.75	268	137	209	34	8.069903449263226	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	5	0.1	13	10	3	7	49.682592524947815	0.37
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	5	0.25	13	12	6	6	56.2862229048005	0.43000000000000005
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	5	0.5	13	14	9	5	87.75095208507275	0.47000000000000003
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	5	0.75	13	18	27	4	151.88336168111223	0.33999999999999997
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	10	0.1	13	15	8	7	34.08394864970248	0.39
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	10	0.25	13	15	8	7	37.57564222856196	0.39
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	10	0.5	13	18	12	6	46.25479621444144	0.4
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	10	0.75	13	27	50	5	79.75301379807877	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	15	0.1	13	17	8	9	21.856562917360854	0.31
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	15	0.25	13	18	11	7	24.874251648275337	0.37
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	15	0.5	13	24	17	7	34.97697655442633	0.2899999999999999
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	15	0.75	13	34	65	6	56.94391856547717	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	20	0.1	13	22	11	11	14.91684942252267	0.21000000000000002
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	20	0.25	13	22	15	7	17.057510887757054	0.32999999999999996
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	20	0.5	13	25	18	7	26.362093998770277	0.26999999999999996
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	20	0.75	13	37	69	7	45.080335725253136	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	30	0.1	14	29	14	15	9.628534683049509	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	30	0.25	13	32	24	8	11.801582256206157	0.10999999999999999
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	30	0.5	13	34	27	7	17.689092097638994	0.08999999999999993
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	30	0.75	13	46	96	7	35.265888507870145	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	50	0.1	20	46	22	24	6.303898034929071	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	50	0.25	14	48	31	17	7.267907720856732	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	50	0.5	13	51	43	8	9.636172719644158	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=3.0)	50	0.75	13	61	141	7	21.896092357344617	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	5	0.1	10	7	4	3	58.55504997479739	0.56
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	5	0.25	10	9	6	3	76.18982142575797	0.6
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	5	0.5	10	9	6	3	110.0010100963724	0.6
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	5	0.75	10	12	18	3	205.97383868399942	0.61
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.1	10	12	8	4	29.321375403544007	0.6
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.25	10	12	9	3	33.446059392533655	0.64
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.5	10	14	11	3	49.96917417115215	0.62
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	10	0.75	10	18	36	3	110.7541070219169	0.37
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.1	10	17	9	8	21.379581501757965	0.44
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.25	10	16	11	5	20.58670687604018	0.54
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.5	10	20	17	3	33.38334165418435	0.54
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	15	0.75	10	24	54	3	71.89807600578288	0.12999999999999992
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	20	0.1	10	21	11	10	14.266177116656358	0.34
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	20	0.25	10	23	16	7	18.170584259322588	0.4
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	20	0.5	10	25	20	5	26.952580581458243	0.4
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	20	0.75	10	29	68	3	52.5600500237755	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	30	0.1	10	28	14	14	8.994541995804218	0.14999999999999997
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	30	0.25	10	31	24	7	11.726327804889351	0.23999999999999996
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	30	0.5	10	34	27	7	17.647475485277212	0.17999999999999994
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	30	0.75	10	38	94	3	32.68569366920517	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	50	0.1	14	44	25	19	5.999311255235061	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	50	0.25	10	45	36	9	6.924424475794912	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	50	0.5	10	49	42	7	9.226611639655223	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=5.0)	50	0.75	10	60	144	5	21.245463568070768	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	5	0.1	5	6	4	2	57.33139531608217	0.7300000000000001
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	5	0.25	5	6	4	2	67.21772253075987	0.7300000000000001
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	5	0.5	5	7	5	2	118.31314381758267	0.75
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	5	0.75	5	8	12	2	229.2899024706496	0.8
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.1	5	11	9	2	27.08572250534151	0.8200000000000001
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.25	5	11	9	2	30.77511069056501	0.8200000000000001
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.5	5	12	10	2	50.339403607467936	0.8200000000000001
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	10	0.75	5	14	30	2	118.31204417099033	0.65
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.1	5	16	10	6	18.854707634964804	0.66
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.25	5	16	13	3	20.730318225970386	0.75
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.5	5	17	15	2	30.504636892976094	0.77
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	15	0.75	5	19	45	2	72.84822761006596	0.44999999999999996
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	20	0.1	5	21	11	10	14.070924976888172	0.49
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	20	0.25	5	22	18	4	17.06865088327741	0.63
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	20	0.5	5	22	20	2	23.87796106859605	0.67
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	20	0.75	5	24	60	2	51.27756711164141	0.25
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	30	0.1	5	28	15	13	8.52277860219546	0.32999999999999996
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	30	0.25	5	30	26	4	10.542453857301599	0.47
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	30	0.5	5	32	30	2	16.222573008003383	0.47000000000000003
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	30	0.75	5	34	90	2	31.944697021885638	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	50	0.1	9	45	25	20	6.238233368154446	0.0
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	50	0.25	5	46	36	10	7.239489480585528	0.029999999999999936
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	50	0.5	5	51	45	6	10.077553940595186	0.009999999999999926
+TSNE(n_components=1, random_state=0)	DBSCAN(eps=10.0)	50	0.75	5	54	144	2	19.233859675704494	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.1	0	5	4	1	9.520504188329525	0.9000000000000001
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.25	0	5	4	1	8.822698000045111	0.9000000000000001
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.5	0	5	4	1	47.35652014242601	0.9000000000000001
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.75	0	5	9	1	83.598086102494	0.95
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.1	0	10	9	1	16.22374802565671	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.25	0	10	9	1	16.666133324799723	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.5	0	10	9	1	14.465130486794786	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.75	0	10	24	1	43.18807705837341	0.9099999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.1	0	15	11	4	14.434526509572649	0.8799999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.25	0	15	14	1	14.948206878715887	0.97
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.5	0	15	14	1	11.84042041295644	0.97
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.75	0	15	39	1	25.536553321769084	0.73
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.1	0	20	11	9	11.739995741055445	0.6799999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.25	0	20	18	2	12.126314361750646	0.86
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.5	0	20	19	1	14.809118812407442	0.8800000000000001
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.75	0	20	54	1	18.722713478553263	0.5299999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.1	0	29	18	11	9.05380928364353	0.5
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.25	0	29	27	2	8.646719323159953	0.6799999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.5	0	30	29	1	12.480918769599192	0.6799999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.75	0	30	84	1	15.280488648382072	0.12999999999999995
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.1	0	47	27	20	6.6834254424724655	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.25	0	48	39	9	7.829536979001731	0.15999999999999992
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.5	0	49	46	3	8.44996543592861	0.2599999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.75	0	50	140	1	13.510366390294529	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.1	0	10	4	6	41.427165000757654	0.8
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.25	0	10	8	2	41.6192263263026	0.96
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.5	0	10	12	1	51.0549703750771	1.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.75	0	10	24	1	139.2162346854705	0.9099999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.1	0	20	11	9	25.23345992922889	0.6799999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.25	0	20	12	9	24.52223480843457	0.6799999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.5	0	20	18	3	45.996847718077376	0.83
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.75	0	20	62	1	68.96685798265716	0.44999999999999996
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.1	0	30	11	19	16.88852338785787	0.28
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.25	0	30	20	11	18.97881860273593	0.47000000000000003
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.5	0	30	27	4	30.452677313424438	0.61
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.75	0	30	90	1	39.97326884584525	0.06999999999999995
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.1	0	40	11	29	10.517574577819735	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.25	0	40	25	16	13.68116862698505	0.16999999999999996
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.5	0	40	39	4	22.411548362395667	0.3899999999999999
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.75	0	40	102	2	45.53745710950491	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.1	0	58	20	38	7.6022753024392955	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.25	0	58	31	27	8.339357711433117	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.5	0	60	57	10	13.539202339872169	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.75	0	60	169	2	24.356518634648918	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.1	0	94	31	63	4.986899996074368	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.25	0	96	54	42	5.918491135955928	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.5	0	98	90	19	7.526719031241986	0.0
+TSNE(n_components=1, random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.75	0	100	274	5	16.420946988526573	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.1	0	389	36	353	1.3702884632702537	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.25	0	462	106	356	1.362660270458917	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.5	0	637	281	356	1.3593018519663544	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.75	0	1151	1392	356	1.377305407840157	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.1	0	393	38	355	1.3504236560379823	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.25	0	462	107	355	1.3490041595227293	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.5	0	672	317	355	1.3869398881715675	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.75	0	1278	1740	355	1.3811634644904742	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.1	0	390	38	352	1.3968594435598949	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.25	0	449	97	352	1.4015546138267356	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.5	0	681	327	354	1.382587887923975	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.75	0	1318	1855	354	1.3715135313420386	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.1	0	390	37	353	1.3519922232502395	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.25	0	459	107	352	1.3308783128268562	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.5	0	689	335	354	1.3730043541364296	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.75	0	1344	1926	354	1.3711552100244977	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.1	0	396	41	355	1.3435933489862388	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.25	0	485	134	351	1.3415631512562454	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.5	0	698	346	352	1.3578971600124856	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.75	0	1370	2000	353	1.371692691026991	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.1	0	402	54	348	1.378441686338805	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.25	0	477	128	349	1.3244565605523426	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.5	0	701	360	341	1.3815371419373983	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.75	0	1385	2077	341	1.3792730478104291	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.1	0	33	5	28	13.614797761626532	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.25	0	39	16	24	14.278897594082713	0.029999999999999916
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.5	0	53	30	24	13.456097938619244	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.75	0	93	132	23	13.794538121949529	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.1	0	36	11	25	12.369659965185827	0.03999999999999987
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.25	0	38	14	24	13.916947957192816	0.04999999999999993
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.5	0	56	43	16	14.337717847036343	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.75	0	104	195	15	14.43570921166629	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.1	0	38	11	27	13.620702834522572	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.25	0	43	21	22	13.21949328469758	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.5	0	62	48	17	13.619981724849108	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.75	0	114	240	15	13.49900535533105	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.1	0	38	11	27	11.198937672214699	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.25	0	45	23	22	12.299031378100723	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.5	0	60	48	16	13.987335541680393	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.75	0	115	235	17	13.824708708991622	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.1	0	42	18	24	12.322043922982473	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.25	0	48	28	20	12.358346679021789	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.5	0	64	50	17	12.995755016061976	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.75	0	120	278	13	13.4997530841617	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.1	0	52	27	25	7.743865676863318	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.25	0	55	40	15	9.210306838868924	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.5	0	69	52	17	12.406288084554824	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.75	0	126	289	15	13.511519585214598	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.1	0	13	4	9	56.37511726066604	0.7
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.25	0	15	7	8	62.59059212231677	0.74
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.5	0	22	13	9	63.27822925399114	0.66
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.75	0	38	55	9	69.03648318882077	0.09999999999999996
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.1	0	16	9	7	37.15544837234507	0.78
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.25	0	16	9	7	43.739998856881556	0.78
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.5	0	24	16	8	53.57801943583457	0.66
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.75	0	45	81	8	63.84157088323804	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.1	0	20	11	9	25.408659941051596	0.6799999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.25	0	22	15	7	29.826218429179452	0.7200000000000001
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.5	0	27	21	6	41.21162221039861	0.64
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.75	0	45	89	6	60.94975060462046	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.1	0	24	11	13	17.656394419271702	0.52
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.25	0	25	18	7	20.60151450743367	0.66
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.5	0	31	24	7	32.276575334080384	0.54
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.75	0	49	101	6	52.333072913946204	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.1	0	33	18	15	12.07992970017066	0.3399999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.25	0	34	27	7	13.91002351993912	0.48
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.5	0	39	33	6	21.49877295704983	0.39999999999999997
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.75	0	55	120	7	41.27150178396871	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.1	0	50	27	23	7.559259222966229	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.25	0	51	40	11	8.82474937100066	0.05999999999999993
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.5	0	56	48	8	12.150824591989883	0.019999999999999893
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.75	0	71	169	5	25.69754495478187	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.1	0	5	4	1	9.520504188329525	0.9000000000000001
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.25	0	5	4	1	8.822698000045111	0.9000000000000001
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.5	0	5	4	1	47.35652014242601	0.9000000000000001
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.75	0	5	9	1	83.598086102494	0.95
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.1	0	10	9	1	16.22374802565671	1.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.25	0	10	9	1	16.666133324799723	1.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.5	0	10	9	1	14.465130486794786	1.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.75	0	10	24	1	43.18807705837341	0.9099999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.1	0	15	11	4	14.434526509572649	0.8799999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.25	0	15	14	1	14.948206878715887	0.97
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.5	0	15	14	1	11.84042041295644	0.97
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.75	0	15	39	1	25.536553321769084	0.73
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.1	0	20	11	9	11.739995741055445	0.6799999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.25	0	20	18	2	12.126314361750646	0.86
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.5	0	20	19	1	14.809118812407442	0.8800000000000001
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.75	0	20	54	1	18.722713478553263	0.5299999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.1	0	29	18	11	9.05380928364353	0.5
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.25	0	29	27	2	8.646719323159953	0.6799999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.5	0	30	29	1	12.480918769599192	0.6799999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.75	0	30	84	1	15.280488648382072	0.12999999999999995
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.1	0	47	27	20	6.6834254424724655	0.0
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.25	0	48	39	9	7.829536979001731	0.15999999999999992
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.5	0	49	46	3	8.44996543592861	0.2599999999999999
+TSNE(n_components=1, random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.75	0	50	140	1	13.510366390294529	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	5	0.1	268	44	10	34	8.1078410675629	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	5	0.25	268	57	27	34	7.894970756768567	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	5	0.5	268	106	129	34	9.01235258464756	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	5	0.75	268	380	2122	34	8.956334130247239	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	10	0.1	268	45	11	34	7.6426354448717415	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	10	0.25	268	60	33	34	7.620950655193149	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	10	0.5	268	129	185	34	7.714374103868327	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	10	0.75	268	441	2809	34	8.486366610726549	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	15	0.1	270	45	14	34	5.837131038912188	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	15	0.25	268	69	54	34	6.67003695526997	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	15	0.5	268	129	187	34	7.502137988238262	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	15	0.75	268	474	3251	34	8.306229758093977	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	20	0.1	300	42	8	34	5.914210949607952	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	20	0.25	268	67	46	34	6.320150972025926	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	20	0.5	268	139	212	34	6.740058899999844	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	20	0.75	268	504	3642	34	7.901567681504527	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	30	0.1	295	51	18	34	3.553945233186932	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	30	0.25	270	64	37	34	4.2699154247332585	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	30	0.5	268	148	232	34	6.161732441156962	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	30	0.75	268	534	3961	34	7.582506152765974	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	50	0.1	404	45	13	35	2.006163342807532	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	50	0.25	305	77	66	32	2.7179184042232607	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	50	0.5	268	169	287	34	4.2110393599632	0.0
+TSNE(random_state=0)	DBSCAN(eps=1.0)	50	0.75	268	585	4662	34	6.481651417577513	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	5	0.1	13	17	10	7	37.24249535420005	0.38
+TSNE(random_state=0)	DBSCAN(eps=3.0)	5	0.25	13	19	20	6	40.05398019722745	0.33999999999999997
+TSNE(random_state=0)	DBSCAN(eps=3.0)	5	0.5	13	32	60	5	52.04261324866383	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	5	0.75	13	72	556	4	127.1027095125517	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	10	0.1	15	28	25	11	16.93275264819332	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	10	0.25	15	33	48	7	20.125410295882023	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	10	0.5	13	58	121	7	31.60702239134662	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	10	0.75	13	138	1264	5	53.19799305451621	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	15	0.1	18	44	40	13	9.478417197084303	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	15	0.25	16	56	95	8	13.36572251190732	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	15	0.5	15	79	186	7	19.661247496038104	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	15	0.75	13	184	1930	6	38.18021660778513	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	20	0.1	23	62	42	22	6.990033041028648	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	20	0.25	16	72	121	11	8.704500308305121	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	20	0.5	15	101	248	7	13.207386394996051	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	20	0.75	13	220	2411	7	30.19608233578906	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	30	0.1	62	81	51	36	3.681787005729087	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	30	0.25	28	97	124	18	4.487059368327588	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	30	0.5	15	156	395	8	7.588885411461764	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	30	0.75	13	317	3918	7	20.389960278334442	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	50	0.1	248	73	25	51	2.036908456288151	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	50	0.25	102	125	130	40	2.600307674103201	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	50	0.5	17	243	555	14	4.1807985719253065	0.0
+TSNE(random_state=0)	DBSCAN(eps=3.0)	50	0.75	15	528	7126	7	10.153106501231253	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	5	0.1	10	16	9	7	36.06629096192177	0.48
+TSNE(random_state=0)	DBSCAN(eps=5.0)	5	0.25	10	19	21	6	39.75855105850147	0.41999999999999993
+TSNE(random_state=0)	DBSCAN(eps=5.0)	5	0.5	10	28	58	3	53.25305395094295	0.04999999999999999
+TSNE(random_state=0)	DBSCAN(eps=5.0)	5	0.75	10	53	438	3	155.21987299042644	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	10	0.1	10	28	26	10	16.87438585428174	0.16
+TSNE(random_state=0)	DBSCAN(eps=5.0)	10	0.25	10	33	48	7	20.159465280707234	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	10	0.5	10	58	127	6	31.344562041286324	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	10	0.75	10	121	1316	3	56.41606950174827	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	15	0.1	12	45	43	13	9.518636690432325	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	15	0.25	10	57	99	8	13.342217723322708	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	15	0.5	10	79	186	7	19.561930465521407	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	15	0.75	10	180	2020	4	37.75675027538817	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	20	0.1	20	63	45	21	7.0018174223499585	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	20	0.25	15	72	124	11	8.671828946880273	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	20	0.5	10	102	253	7	13.318806965816988	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	20	0.75	10	223	2492	7	30.333605319103945	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	30	0.1	55	83	56	35	3.6809940152150955	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	30	0.25	26	98	136	16	4.4900857976922035	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	30	0.5	11	155	395	8	7.587206494708067	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	30	0.75	10	316	3960	7	20.257864367671736	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	50	0.1	248	73	25	51	2.036908456288151	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	50	0.25	102	125	130	40	2.600307674103201	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	50	0.5	15	245	568	13	4.181660043136958	0.0
+TSNE(random_state=0)	DBSCAN(eps=5.0)	50	0.75	10	529	7209	7	10.110541433969866	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	5	0.1	5	17	9	8	36.853868351324365	0.59
+TSNE(random_state=0)	DBSCAN(eps=10.0)	5	0.25	5	22	31	5	41.51423633142995	0.47
+TSNE(random_state=0)	DBSCAN(eps=10.0)	5	0.5	5	25	56	2	60.57305011306596	0.2799999999999999
+TSNE(random_state=0)	DBSCAN(eps=10.0)	5	0.75	5	41	372	2	178.02646034504622	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	10	0.1	5	29	26	11	17.21784600829266	0.27
+TSNE(random_state=0)	DBSCAN(eps=10.0)	10	0.25	5	34	48	8	20.483536303958136	0.08999999999999993
+TSNE(random_state=0)	DBSCAN(eps=10.0)	10	0.5	5	59	138	4	31.333817212723506	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	10	0.75	5	101	1235	2	61.886057630188084	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	15	0.1	7	46	43	14	9.629330587399972	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	15	0.25	5	58	99	9	13.411665463740738	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	15	0.5	5	83	192	8	19.994200059002594	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	15	0.75	5	172	2155	2	38.98835995533141	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	20	0.1	15	64	45	22	7.023937169378368	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	20	0.25	10	73	124	12	8.728618354724631	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	20	0.5	5	104	254	8	13.490902040628065	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	20	0.75	5	230	2710	5	30.759018533952325	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	30	0.1	50	84	56	36	3.6883058134111697	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	30	0.25	21	99	136	17	4.5089669075306835	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	30	0.5	5	159	401	9	7.713282009265311	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	30	0.75	5	332	4106	7	20.622417493606132	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	50	0.1	248	73	25	51	2.036908456288151	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	50	0.25	97	127	131	41	2.598162716401535	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	50	0.5	10	249	574	14	4.198502752661599	0.0
+TSNE(random_state=0)	DBSCAN(eps=10.0)	50	0.75	5	545	7332	8	10.273847220280459	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.1	0	16	10	6	35.680658275878265	0.81
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.25	0	18	28	4	38.51667107392959	0.7199999999999999
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.5	0	21	50	1	53.09231253951603	0.56
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	5	0.75	0	25	252	1	107.76141053271344	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.1	0	34	32	12	18.436391160721826	0.2799999999999999
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.25	0	39	54	9	21.83920077144092	0.09999999999999991
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.5	0	61	148	3	31.779964413682244	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	10	0.75	0	88	1159	1	57.445554532419564	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.1	0	51	50	16	10.277353296096214	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.25	0	64	110	10	13.87154200997045	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.5	0	95	232	6	20.968384062533428	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	15	0.75	0	158	2094	1	37.727901188914466	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.1	0	77	58	25	7.49826538663439	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.25	0	90	153	15	9.622658445333885	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.5	0	125	315	7	14.796354145531932	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	20	0.75	0	234	2969	3	31.021384005468345	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.1	3	121	97	41	4.3079181277879846	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.25	0	139	221	18	5.301470041136755	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.5	0	200	508	10	8.869102265731295	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	30	0.75	0	374	4814	4	21.39683809424278	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.1	20	192	121	86	2.4366930199070804	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.25	3	247	342	51	2.9914727438729054	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.5	0	355	868	15	4.853337199068649	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(random_state=0)	50	0.75	0	661	8989	7	11.255243147315193	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.1	0	32	20	14	25.557456715213274	0.36
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.25	0	36	41	9	31.065479928851516	0.25999999999999995
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.5	0	42	103	2	43.54563379056759	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	5	0.75	0	50	684	1	94.52571290395011	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.1	0	68	46	32	10.407723958343611	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.25	0	78	98	17	13.52658278408097	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.5	0	122	302	6	20.32400809450564	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	10	0.75	0	176	2319	1	45.6248061243475	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.1	0	102	71	43	6.225667744882111	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.25	0	128	193	23	8.811803912003136	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.5	0	190	473	12	12.766212331201395	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	15	0.75	0	316	3916	2	27.931350502453025	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.1	0	154	83	77	4.3174542888738765	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.25	0	180	253	31	5.699317697954925	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.5	0	250	662	10	9.034656828015107	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	20	0.75	0	468	6090	5	20.877577279712042	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.1	3	242	119	141	2.6646357069182978	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.25	0	278	321	72	3.201190274077811	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.5	0	400	1011	17	5.192445835056924	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	30	0.75	0	748	9643	8	13.23359216356844	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.1	20	384	144	255	1.415591561261924	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.25	3	494	511	168	1.7171970637850753	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.5	0	710	1602	49	2.858269827615797	0.0
+TSNE(random_state=0)	BayesianGaussianMixture(n_components=2, random_state=0)	50	0.75	0	1322	17214	10	6.860337048936478	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.1	0	431	85	346	1.349921397112402	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.25	0	575	263	351	1.4234716209241967	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.5	0	1143	1452	351	1.3951348592586312	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	5	0.75	0	4131	24067	352	1.3862514532207113	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.1	0	435	94	350	1.3484282282526499	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.25	0	566	285	349	1.3634494375534243	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.5	0	1258	1798	337	1.4007063064631116	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	10	0.75	0	4623	30186	341	1.389083483384011	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.1	0	433	105	340	1.3626179195524897	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.25	0	635	449	334	1.3057919781440612	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.5	0	1330	1959	341	1.3343142791379154	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	15	0.75	0	4937	33991	341	1.3636256215079883	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.1	0	443	109	338	1.2889528884069934	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.25	0	658	467	334	1.2688649986899163	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.5	0	1357	2045	335	1.3176296903305733	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	20	0.75	0	5098	36231	337	1.3510903620630397	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.1	3	442	126	332	1.29822663496521	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.25	0	625	418	327	1.290606059183049	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.5	0	1378	2166	317	1.3428511353157127	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	30	0.75	0	5277	39321	316	1.3626240053293897	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.1	20	430	136	309	1.1822122244526208	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.25	3	663	533	310	1.2818241303514906	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.5	0	1407	2263	308	1.3182242298659406	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=1.0, n_clusters=None)	50	0.75	0	5493	42358	309	1.3337436529864601	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.1	0	36	17	19	14.82355066510678	0.19999999999999996
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.25	0	54	49	18	13.500711254951526	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.5	0	97	192	16	15.047634006421072	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	5	0.75	0	346	2900	13	15.012943951261908	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.1	0	44	37	17	12.663863960625253	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.25	0	58	68	15	12.953314139852685	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.5	0	136	300	15	12.637205463935302	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	10	0.75	0	432	4165	10	13.654692134352596	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.1	0	54	51	18	10.664351600623846	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.25	0	73	115	15	12.275287356198133	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.5	0	140	334	11	13.205325147261538	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	15	0.75	0	458	4932	8	13.734000210076108	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.1	0	79	58	27	7.585246983413994	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.25	0	92	153	17	9.719603872220938	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.5	0	153	378	11	12.569009813400188	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	20	0.75	0	486	5623	9	13.901203045816507	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.1	3	124	98	43	4.364468146983706	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.25	0	143	222	21	5.386948908583974	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.5	0	208	518	12	8.964322312324049	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	30	0.75	0	567	7022	10	12.741246344955377	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.1	20	193	121	87	2.445354339527957	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.25	3	249	343	52	3.010521701544287	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.5	0	363	880	17	4.902920375186619	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=10.0, n_clusters=None)	50	0.75	0	723	9539	11	10.845394094879023	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.1	0	21	10	11	38.49628188307101	0.6100000000000001
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.25	0	27	32	9	42.353920660737856	0.43999999999999995
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.5	0	46	84	8	51.977310739956856	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	5	0.75	0	150	1267	7	66.85027250006789	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.1	0	36	32	14	18.78950570641383	0.1999999999999999
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.25	0	42	56	10	22.29059775554078	0.0199999999999999
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.5	0	77	172	7	32.345161598496546	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	10	0.75	0	185	1873	5	57.56740159854263	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.1	0	54	51	18	10.664351600623846	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.25	0	67	111	12	14.132901943816453	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.5	0	105	246	8	21.33847727099799	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	15	0.75	0	237	2604	5	40.18570938703992	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.1	0	79	58	27	7.585246983413994	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.25	0	92	153	17	9.719603872220938	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.5	0	134	328	9	15.178774266649954	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	20	0.75	0	297	3388	6	32.08077627660434	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.1	3	124	98	43	4.364468146983706	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.25	0	143	222	21	5.386948908583974	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.5	0	206	516	11	9.008841657724394	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	30	0.75	0	418	5075	7	21.842604819853108	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.1	20	193	121	87	2.445354339527957	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.25	3	248	343	51	2.9997804940506883	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.5	0	362	880	16	4.893185397202945	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=30.0, n_clusters=None)	50	0.75	0	692	9229	8	11.47333066940039	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.1	0	16	10	6	35.680658275878265	0.81
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.25	0	18	28	4	38.51667107392959	0.7199999999999999
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.5	0	21	50	1	53.09231253951603	0.56
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	5	0.75	0	25	252	1	107.76141053271344	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.1	0	34	32	12	18.436391160721826	0.2799999999999999
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.25	0	39	54	9	21.83920077144092	0.09999999999999991
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.5	0	61	148	3	31.779964413682244	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	10	0.75	0	88	1159	1	57.445554532419564	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.1	0	51	50	16	10.277353296096214	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.25	0	64	110	10	13.87154200997045	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.5	0	95	232	6	20.968384062533428	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	15	0.75	0	158	2094	1	37.727901188914466	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.1	0	77	58	25	7.49826538663439	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.25	0	90	153	15	9.622658445333885	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.5	0	125	315	7	14.796354145531932	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	20	0.75	0	234	2969	3	31.021384005468345	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.1	3	121	97	41	4.3079181277879846	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.25	0	139	221	18	5.301470041136755	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.5	0	200	508	10	8.869102265731295	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	30	0.75	0	374	4814	4	21.39683809424278	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.1	20	192	121	86	2.4366930199070804	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.25	3	247	342	51	2.9914727438729054	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.5	0	355	868	15	4.853337199068649	0.0
+TSNE(random_state=0)	AgglomerativeClustering(distance_threshold=50.0, n_clusters=None)	50	0.75	0	661	8989	7	11.255243147315193	0.0
